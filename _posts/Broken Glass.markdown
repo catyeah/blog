@@ -11,7 +11,7 @@ tags: [poetry, writing]
 categories: [cat01, cat02]
 comments: false
 ---
-Why are we afraid of broken glass
+<p>Why are we afraid of broken glass
 There are worse things
 Like sitting ona cold cement hallway
 Playing with a piece of string
@@ -52,4 +52,4 @@ And you live in fear of the smokey snake
 There are worse things
 But still
 Your mother tells you to be careful, be afraid
-Of broken glass
+Of broken glass</p>
